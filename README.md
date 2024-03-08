@@ -6,18 +6,24 @@ You need to build a web-based class management system like MS Teams which will m
 comprise of two major use cases: Students and Professors. The main focus for the software will 
 be uploading lectures, implementation of live classes is a bonus. The class management 
 system should take care of the following: 
+
 ● Have a login for students and professors, both of these use cases will have different 
 functionalities. 
+
 ● Create virtual ‘classrooms’ in which students have to attend classes during the 
 scheduled hours which will have a messaging interface in which students can ask 
 doubts. 
+
 ● A file-sharing system where only the Professor can upload video lectures, assignments 
 and class tests. And the students added to that classroom will have access to these 
 files. 
+
 ● A personalised Calendar for Professors and Students alike will prompt the user to attend 
 classes and show the schedule of the day/week. 
+
 ● Each student will have a Grades tab for each subject, which will contain evaluated 
 submissions by Professors or TAs. 
+
 We have 2 major use cases, namely Professors and Students. The basic functionalities for each 
 of them are -
 Professors: 
